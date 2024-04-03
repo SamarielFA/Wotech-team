@@ -8,7 +8,8 @@
 
 ## Our projects:
 - A piece of code from 3rd of April
-  ```public class Main {
+  ```java
+  public class Main {
   public static void main(String[] args) {
 
     // winter, spring, summer, autumn
