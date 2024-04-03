@@ -1,9 +1,11 @@
+// 3rd of April task
+
 public class Main {
   public static void main(String[] args) {
 
     // winter, spring, summer, autumn
     // warm jacket, t-shirt, swimming suite, rain coat
-    String season = "wintr";
+    String season = "winter";
     
 
     if (season == "winter"){
@@ -18,9 +20,5 @@ public class Main {
     else if (season == "autumn"){
       System.out.println("Wear a rain coat!");
     }
-
-
-    
-    
-    
+  
   }
