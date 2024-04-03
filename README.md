@@ -1,7 +1,9 @@
-# Wotech-team
+## Welcome to Wotech team 4 repository! 🤩 
 
-Members
-1. Evelyn_E
-2. Gretel
-3. Marta Čerkasova
-4. Samariel
+## Our team members:
+- Evelyn
+- Marta
+- Samariel
+- Gretel 
+
+## Our projects:
